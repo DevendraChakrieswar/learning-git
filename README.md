@@ -1,3 +1,3 @@
-#learning-git
+# learning-git
 
 Trying some git features 
