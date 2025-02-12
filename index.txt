@@ -1,3 +1,6 @@
 Hello 
-
+My bad
 using vi
+kk
+conflict
+i
