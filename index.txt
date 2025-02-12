@@ -1,3 +1,4 @@
 Hello 
-
+conflict
 using vi
+i
